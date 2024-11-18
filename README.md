@@ -43,11 +43,13 @@ View my portfolio: **srsampt.github.io**
 **Zurich Transit Insights: Data Analysis and Spatial Visualization**  
 * _Tools Used:_ Python, Pandas, ArcGIS Pro, SQL, ArcPy, Microsoft Excel
 * _Skills Used:_ Data Analysis, Geospatial Analysis, Database Queries, Joins & Relates, Spatial Statistics
-Ongoing project. Conducting in-depth analysis on Zurich’s public transportation system using Python & Pandas. Using ArcGIS Pro to visualize these findings, including passenger counts per line & stop, daily averages, & punctuality percentages.  
+Ongoing project. Conducting in-depth analysis on Zurich’s public transportation system using Python & Pandas. Using ArcGIS Pro to visualize these findings, including passenger counts per line & stop, daily averages, & punctuality percentages. 
+
 **Construction Developments on the UConn Storrs Campus**  
 * _Tools Used:_ ArcGIS Pro, StoryMaps, SQL, Adobe Illustrator & Photoshop
 * _Skills Used:_ Geovisualization, Data Integration, Geospatial Analysis, Buffer & Dissolve Operations
 Created an engaging StoryMap focusing on six major construction projects on the UConn campus of the past three decades. Integrated numerous data sources to design a bespoke campus map.  
+
 **West Haven Storm Surge Impact**  
 * _Tools Used:_ ArcGIS Pro, SQL, Adobe Illustrator
 * _Skills Used:_ Proximity Analysis, Storm Surge Modeling, Spatial Interpolation, Geocoding
