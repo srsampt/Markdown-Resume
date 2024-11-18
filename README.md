@@ -1,7 +1,7 @@
 # Sarah Sampt  
 
-[My Portfolio](srsampt.github.io)
-[My LinkedIn](linkedin.com/in/sarah-sampt/)
+[My Portfolio](srsampt.github.io)  
+[My LinkedIn](linkedin.com/in/sarah-sampt/)  
 srsampt@gmail.com  
 (860) 977-9720  
 West Hartford, CT  
